@@ -1,4 +1,7 @@
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
+[![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
+</div>
 
 ### Donghak Park
 - :school: 대건고등학교 (대구) /2015.02
