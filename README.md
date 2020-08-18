@@ -1,5 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 
+### Donghak Park
+- :school: 대건고등학교 (대구) /2015.02
+- :school: 단국대학교 소프트웨어학과 (용인) /2021.02 졸업 예정
+
 ---
 [![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghakPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
