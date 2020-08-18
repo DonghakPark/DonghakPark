@@ -6,29 +6,16 @@
 </div>
 
 ### Donghak Park
-- :school: 대건고등학교 (대구) /2015.02
-- :school: 단국대학교 소프트웨어학과 (용인) /2021.02 졸업 예정
+## Education
+- :school: **Daegun High School** *<Daegu, KOR> (2012.03 ~ 2015.02)*
+- :school: **Dankook University - Dept of Software** *<Yongin, KOR> (2015.03 ~ 2021.02)*
+- &#128073; **University of Pennsylvania - Language Training** *<PA, USA> (2018.12 ~ 2019.01)*
+- &#128073; **University of California Irvine - Visiting Researcher** *<CA, USA> (2019.07 ~ 2019.09)*
+- &#128073; **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
 
 ---
 <div align=center>
-  
 [![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghakPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
-
 --- 
-<!--
-**DonghakPark/DonghakPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
