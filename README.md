@@ -18,9 +18,13 @@
 - &#128073; **K-Sign - School-linked-Intern**  *<Seoul, KOR> (2019.12 ~ 2020.02)*
 - &#128073; **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
 
-
 ---
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+--- 
 <div align=center>
 
 [![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
