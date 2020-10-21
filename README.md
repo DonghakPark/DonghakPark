@@ -3,10 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 [![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
 
-# Donghak PARK
-
 <!-- [![DONGHAK's github stats](https://github-readme-stats.vercel.app/api?username=donghakpark)](https://github.com/DonghakPark) -->
-
+# DONG HAK PARK
 </div>
 
 <!--[![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
