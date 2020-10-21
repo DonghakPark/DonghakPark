@@ -5,7 +5,7 @@
 
 # Donghak PARK
 
-[![DONGHAK's github stats](https://github-readme-stats.vercel.app/api?username=donghakpark)](https://github.com/DonghakPark)
+<!-- [![DONGHAK's github stats](https://github-readme-stats.vercel.app/api?username=donghakpark)](https://github.com/DonghakPark) -->
 
 </div>
 
