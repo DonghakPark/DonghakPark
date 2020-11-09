@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 [![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
-
+[![Mail Badge](http://img.shields.io/badge/-mail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:donghark03@naver.com)](mailto:donghark03@naver.com/)
 </div>
 
 <div>
