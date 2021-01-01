@@ -1,18 +1,26 @@
+<div>
+  
+# DONG HAK PARK
+
+</div>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 [![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03)
 </div>
+
+<!--
 
 <div>
   
-<!-- [![DONGHAK's github stats](https://github-readme-stats.vercel.app/api?username=donghakpark)](https://github.com/DonghakPark) -->
-# DONG HAK PARK
-</div>
+  [![DONGHAK's github stats](https://github-readme-stats.vercel.app/api?username=donghakpark)](https://github.com/DonghakPark)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03)
 
-<!--[![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+[![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghakPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 ## Education
