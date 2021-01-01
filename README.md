@@ -3,7 +3,7 @@
 # DONG HAK PARK
 
 </div>
-<div align=right>
+<div align=left>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 [![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
