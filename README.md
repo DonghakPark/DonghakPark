@@ -4,10 +4,11 @@
 
 </div>
 <div align=left>
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark)](https://hits.seeyoufarm.com)
 [![Repos Badge](https://badges.pufler.dev/repos/DonghakPark)](https://badges.pufler.dev)
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03) !-->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03)
+
 </div>
 
 <!--
