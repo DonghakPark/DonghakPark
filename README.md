@@ -35,7 +35,7 @@
 <div>
 
   ## Experiences
-  - &#128073; **Remake Digital Crolo - development Intern**  
+  - &#128073; **Remake Digital Crolo - Development Intern**  
      *<Seoul, KOR> (2020.09 ~ 2020.12)*  
   - &#128073; **Dankook Univ. IDA_lab - Assistant Researcher**  
      *<Yongin, KOR> (2019.10 ~ 2020.08)*  
