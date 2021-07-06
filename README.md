@@ -23,13 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghakPark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-<div>
-  
-  ## Education
-  - 🏫 **Dankook University - Dept of Software** *<Yongin, KOR> (2015.03 ~ 2021.02)*
-  - 🏫 **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
-  - 🏫 **University of California Irvine - Visiting Researcher** *<CA, USA> (2019.07 ~ 2019.09)*  
-</div>
 
 <div>
 
@@ -38,4 +31,12 @@
   - 💻 **Remake Digital Crolo - Development Intern** *<Seoul, KOR> (2020.09 ~ 2020.12)* 
   - 💻 **K-Sign - School-linked-Intern** *<Seoul, KOR> (2019.12 ~ 2020.02)*
   ---
+</div>
+  
+<div>
+  
+  ## Education
+  - 🏫 **Dankook University - Dept of Software** *<Yongin, KOR> (2015.03 ~ 2021.02)*
+  - 🏫 **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
+  - 🏫 **University of California Irvine - Visiting Researcher** *<CA, USA> (2019.07 ~ 2019.09)*  
 </div>
