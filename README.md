@@ -26,16 +26,16 @@
 <div>
   
   ## Education
-  - :school: **Dankook University - Dept of Software** *<Yongin, KOR> (2015.03 ~ 2021.02)*
-  - &#128073; **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
-  - &#128073; **University of California Irvine - Visiting Researcher** *<CA, USA> (2019.07 ~ 2019.09)*  
+  - 🏫 **Dankook University - Dept of Software** *<Yongin, KOR> (2015.03 ~ 2021.02)*
+  - 🏫 **Dankook Univ. IDA_lab - Assistant Researcher** *<Yongin, KOR> (2019.10 ~ 2020.08)*
+  - 🏫 **University of California Irvine - Visiting Researcher** *<CA, USA> (2019.07 ~ 2019.09)*  
 </div>
 
 <div>
 
   ## Dev_Experiences
-  - &#128073; **Hyundai MOBIS** *<Yongin, KOR> (2021.06 ~ )*
-  - &#128073; **Remake Digital Crolo - Development Intern** *<Seoul, KOR> (2020.09 ~ 2020.12)* 
-  - &#128073; **K-Sign - School-linked-Intern** *<Seoul, KOR> (2019.12 ~ 2020.02)*
+  - 💻 **Hyundai MOBIS** *<Yongin, KOR> (2021.06 ~ )*
+  - 💻 **Remake Digital Crolo - Development Intern** *<Seoul, KOR> (2020.09 ~ 2020.12)* 
+  - 💻 **K-Sign - School-linked-Intern** *<Seoul, KOR> (2019.12 ~ 2020.02)*
   ---
 </div>
