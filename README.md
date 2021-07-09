@@ -27,7 +27,7 @@
 <div>
 
   ## Dev_Experiences
-  - 💻 **Hyundai MOBIS** *<Yongin, KOR> (2021.06 ~ )*
+  - 💻 **Hyundai MOBIS** *<Yongin, KOR> (2021.06 ~ _Now_)*
   - 💻 **Remake Digital Crolo - Development Intern** *<Seoul, KOR> (2020.09 ~ 2020.12)* 
   - 💻 **K-Sign - School-linked-Intern** *<Seoul, KOR> (2019.12 ~ 2020.02)*
   ---
