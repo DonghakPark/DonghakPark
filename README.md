@@ -15,11 +15,16 @@
 
 <div>
 
-  ## 💼 Dev / Edu Experience
-  - 👉 **Hyundai MOBIS                    - Research Engineer**     *(2021.06 ~ _Now_)*
-  - 💻 **Remake Digital. Crolo            - Development Intern**    *(2020.09 ~ 2020.12)* 
-  - 💻 **K-Sign                           - Development Intern**    *(2019.12 ~ 2020.02)*
-  - 🏫 **Dankook Univ. Dept of Software   - Undergraduate Student** *(2015.03 ~ 2021.02)*
-  - 🏫 **Dankook Univ. IDA_lab            - Assistant Researcher**  *(2019.10 ~ 2020.08)*
-  - 🏫 **University of California Irvine  - Visiting Researcher**   *(2019.07 ~ 2019.09)*
+  ## 💼 Work
+  - 👉 **Hyundai MOBIS ------------------------------------------ Research Engineer** ------------------- *(2021.06 ~ _Now_)*
+  
+  ## 📌 Intern
+  - 💻 **Remake Digital. Crolo ------------------------------------ Development Intern** ---------------- *(2020.09 ~ 2020.12)* 
+  - 💻 **K-Sign ----------------------------------------------------- Development Intern** ---------------- *(2019.12 ~ 2020.02)*
+  
+  ## ✏ Education
+  - 🏫 **Dankook Univ. Dept of Software------------------------- Undergraduate Student** ----------- *(2015.03 ~ 2021.02)*
+  - 🏫 **Dankook Univ. IDA_lab ----------------------------------- Assistant Researcher** -------------- *(2019.10 ~ 2020.08)*
+  - 🏫 **University of California Irvine ---------------------------- Visiting Researcher** --------------- *(2019.07 ~ 2019.09)*
+  - 🏫 **University of Pennsylvania ------------------------------- Language Trainee** ----------------- *(2018.12 ~ 2019.01)*  
 </div>
