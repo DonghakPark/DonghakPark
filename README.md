@@ -16,7 +16,7 @@
 <div>
 
   ## 💼 Work
-  
+  - 👉 **Samsung Electronics (Samsung Research) ------------- Software Developer** ------------------ *(2022.01 ~ NOW)*
   - 👉 **Hyundai MOBIS ------------------------------------------ Research Engineer** ------------------- *(2021.06 ~ 2022.01)*
   
   ## 📌 Intern
