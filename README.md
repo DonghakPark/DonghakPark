@@ -13,6 +13,7 @@
 
 </div>
 
+<!--
 <div>
 
   ## 💼 Work
@@ -29,3 +30,4 @@
   - 🏫 **University of California Irvine ---------------------------- Visiting Researcher** --------------- *(2019.07 ~ 2019.09)*
   - 🏫 **University of Pennsylvania ------------------------------- Language Trainee** ----------------- *(2018.12 ~ 2019.01)*  
 </div>
+-->
