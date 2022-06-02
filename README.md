@@ -14,8 +14,8 @@
 </div>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03/)
 ![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03/)
 </div>
 
 <div>
