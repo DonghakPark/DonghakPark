@@ -3,6 +3,7 @@
 # DONG HAK PARK
 
 </div>
+
 <div align=left>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -12,7 +13,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghakPark&count_bg=%235B5A59&title_bg=%23716A6A&icon=github.svg&icon_color=%23000000&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-</div>
+
+<div>
 
 ![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=radical)
 
