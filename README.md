@@ -1,9 +1,3 @@
-<div>
-  
-# 👋DONG HAK PARK👋
-
-</div>
-
 <div align=left>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdgkr03)](https://solved.ac/ehdgkr03)
