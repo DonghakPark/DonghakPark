@@ -30,13 +30,16 @@
 </div>
 
 <div>
-  
+  <!--  
   ## 💻 Skills
   
   ### Language  
-    
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-F36D00?style=flat-square&logo=Rust&logoColor=black"/>
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonghakPark&theme=dark)
+-->
   
 </div>
