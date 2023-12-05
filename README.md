@@ -7,7 +7,7 @@
 <div>
 
 ![Donghak's github stats](https://github-readme-stats.vercel.app/api?username=DonghakPark&show_icons=true&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donghakpark)
 </div>
 -->
 <div>
